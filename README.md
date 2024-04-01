@@ -142,7 +142,8 @@ Execute the programs and publish them.
 ```
 
 ## OUTPUT
-![Screenshot (245)](https://github.com/IMRAAN2005/NearMe/assets/149347407/b8299607-ed20-40a7-8c18-2f70a70d912e)
+![WhatsApp Image 2024-03-27 at 21 47 24_e82178d2](https://github.com/IMRAAN2005/NearMe/assets/149347407/d5befa8e-586f-41d2-b20e-17537941087c)
+
 
 ![image](https://github.com/IMRAAN2005/NearMe/assets/149347407/c2a4f5ce-2e70-4abc-96e5-7f707b19ce90)
 
