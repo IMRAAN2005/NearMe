@@ -32,7 +32,9 @@ Execute the programs and publish them.
     </head>
     <body>
         <h1 align="center">PILERU</h1>
-
+        <h2 align="center">
+<font color="green"><b>Shaik Mahammad Imraan (212223100053)</b></font>
+</h2>
         <center>
             <img src="map.png" usemap="#image-map">
 
